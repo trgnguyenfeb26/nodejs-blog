@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trgnguyenfeb26/nodejs-blog.git"
+  },
+  "author": "trung nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trgnguyenfeb26/nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/trgnguyenfeb26/nodejs-blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
